@@ -1,0 +1,9 @@
+@import '@shopify/polaris-tokens/css/styles.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div {
+  background: var(--p-color-bg-surface);
+}
